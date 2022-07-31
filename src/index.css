@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  
+}
+/* navbar */
+.homepage-hero{
+  /* height: 100px; */
+ background-color: aqua;
+}
+
+.body{
+  font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+
+.login-container,.register-containter,
+.user-Profile,.navbarCss,
+ .btn-home,.products-home,
+ .brcrb{
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.btn-form {
+  width: 120px;
+  font-size: 20px;
+  cursor: pointer;
+  height: 55px;
+  text-align:center;
+  
+  border: none;
+}
+.btn-form.color-9 {
+background-color: #e2a54f;}
+
+.title-profile,.product-title{
+  font-family: 'Raleway', sans-serif;
+}
+
